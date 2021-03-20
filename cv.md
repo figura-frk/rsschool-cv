@@ -128,3 +128,27 @@ _September 2018 – January 2020_
 
 **Junior Web Data Analyst at Accenture Operations, Cracow**
 _December 2017 – August 2018_
+
+## Education
+**Akademia UX/UI (Full Stack UX/UI designer)**
+_January 2020 - Present_
+
+**Krakowska Akademia im. A.F, Modzewskiego, Cracow**
+_(Bachelor Degree in International Relations)_
+_October 2014 – May 2017_
+
+**"Shane Global" East Sussex, Hastings**
+_July 2013 – August 2013_
+
+
+### Languages 
+
+
+| Language | Level |
+| ------ | ------ |
+| English | C1 (IELTS 7/9) |
+| Russian | c1 (Native) |
+| Ukraininan | c1 (Native) |
+| Polish | B2 (Course Profi -Lingua school) |
+| Spanish | B1 (Basic  Self Learning) |
+| French | A1 (Basic School Learning) |
